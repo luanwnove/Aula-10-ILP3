@@ -1,0 +1,8 @@
+1. Extraia o ZIP.
+2. Abra a pasta ILP3_Vue_Aulas_01_a_10 no VS Code.
+3. Abra Terminal > New Terminal.
+4. Execute: npm install
+5. Execute: npm run dev
+6. Abra o endereço localhost informado pelo Vite.
+7. Antes de enviar ao professor, execute: npm test e npm run build.
+8. Siga o README.md para criar o repositório público e enviar o código ao GitHub.
